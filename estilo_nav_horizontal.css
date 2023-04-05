@@ -126,7 +126,7 @@ a.btn-nav-unico:hover{
 
 @media (max-width: 649px){
     .flexbox{
-        display: block;
+        display: flex;
         flex-direction: row;
         justify-content: center;
         padding: 25px;
@@ -134,12 +134,11 @@ a.btn-nav-unico:hover{
     }
 
     .btn-nav{
-        display: block;
+        display: flex;
         flex-direction: column;
-        justify-content: right;
+        justify-content: center;
         gap: 30px;
         letter-spacing: 1px;
-        font-size: 5px
 }
 .hero{
     background-image: url(pexels-ann-h-3147624.jpg);
