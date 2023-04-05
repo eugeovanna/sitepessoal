@@ -134,7 +134,7 @@ a.btn-nav-unico:hover{
     }
 
     .btn-nav{
-        display: block;
+        display: flex;
         flex-direction: column;
         justify-content: center;
         gap: 30px;
