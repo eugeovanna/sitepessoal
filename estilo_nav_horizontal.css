@@ -136,7 +136,7 @@ a.btn-nav-unico:hover{
     .btn-nav{
         display: block;
         flex-direction: column;
-        justify-content: center;
+        justify-content: right;
         gap: 30px;
         letter-spacing: 1px;
         font-size: 5px
